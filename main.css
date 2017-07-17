@@ -1,0 +1,91 @@
+body {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	font-size: 40px;
+}
+
+.container {
+	margin: 0 auto;
+	margin-top: 175px;
+	width: 600px;
+	background-color: yellow;
+	border: 2px solid black;
+	border-radius: 2px;
+}
+
+.content {
+	text-align: center;
+	font-size: 0;
+}
+
+#start-button {
+  border-radius: 2px;
+  background-color:  red;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  height: auto;
+  padding: 10px 20px 10px 20px;
+  margin-top: 75px;
+  border: 2px solid black;
+}
+
+#start-again {
+  border-radius: 2px;
+  background-color: red;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  height: auto;
+  padding: 10px 20px 10px 20px;
+  margin-top: 50px;
+  margin-bottom: 25px;
+  border: 2px solid black;
+}
+
+button {
+  border-radius: 2px;
+  background-color:  red;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  height: auto;
+  padding: 10px 20px 10px 20px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  border: 2px solid black;
+}
+
+.js-current-tally {
+	text-align: center;
+	font-size: 30px;
+	padding: 20px;
+}
+
+p {
+	font-size: 30px;
+}
+
+.js-multiple-choice {
+	text-align: left;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.js-current-question {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+ul {
+	list-style-type: none;
+}
+
+#error {
+	font-size: 25px;
+	color: red;
+	font-weight: bold;
+}
